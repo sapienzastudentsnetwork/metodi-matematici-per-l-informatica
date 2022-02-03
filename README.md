@@ -32,13 +32,10 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 ## Set di esercizi sulle **Funzioni**
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [01](../../issues/50)  | [02](../../issues/51)  | [03](../../issues/52)  | [04](../../issues/53)  | [05](../../issues/54)  | [06](../../issues/55)  | [07](../../issues/08)  | [08](../../issues/09)  |
-| [09](../../issues/10)  | [10](../../issues/11) | [11](../../issues/12) | [12](../../issues/13) | [13](../../issues/14) | [14](../../issues/15)  | [15](../../issues/16) | [16](../../issues/17) |
-| [17](../../issues/18) | [18](../../issues/19) | [19](../../issues/20) | [20](../../issues/21) | [21](../../issues/22) | [22](../../issues/23)  | [23](../../issues/24) | [24](../../issues/25) |
-| [25](../../issues/26) | [26](../../issues/27) | [27](../../issues/28) | [28](../../issues/29) | [29](../../issues/30) | [30](../../issues/31)  | [31](../../issues/32) | [32](../../issues/33) |
-| [33](../../issues/34) | [34](../../issues/35) | [35](../../issues/36) | [36](../../issues/37) | [37](../../issues/38) | [38](../../issues/39) | [39](../../issues/40) | [40](../../issues/41) |
-| [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](https://github.com/sapienzastudentsnetwork/mmi2122/issues/49) |
-<br/>
+| [01](../../issues/50)  | [02](../../issues/51)  | [03](../../issues/52)  | [04](../../issues/53)  | [05](../../issues/54)  | [06](../../issues/55)  | [07](../../issues/56)  | [08](../../issues/57)  |
+| [09](../../issues/58)  | [10](../../issues/59) | [11](../../issues/60) | [12](../../issues/61) | [13](../../issues/62) | [14](../../issues/63)  | [15](../../issues/64) | [16](../../issues/65) |
+| [17](../../issues/66) | [18](../../issues/67) | [19](../../issues/68) | [20](../../issues/69) | [21](../../issues/70) | [22](../../issues/71)  | [23](../../issues/72) | [24](../../issues/73) |
+| [25](../../issues/74) | [26](../../issues/75) | [27](../../issues/76) | [28](../../issues/77) | | |
 
 ## Set di esercizi sulle **Relazioni**
 
