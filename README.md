@@ -1,5 +1,11 @@
 # [A/L] Metodi Matematici [A.A. 2021-2022]
 
+Link alle dispense: https://sites.google.com/uniroma1.it/mmi2122/dispense
+Link al diario delle lezioni: https://sites.google.com/uniroma1.it/mmi2122/diario
+Link ai PDF originali dei set di esercizi: https://sites.google.com/uniroma1.it/mmi2122/esercizi
+
+Attenzione: questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali
+
 Set di esercizi sulla Combinatoria
 
 |    |    |    |    |    |     |    |    |
