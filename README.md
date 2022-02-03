@@ -1,15 +1,14 @@
 # [A/L] Metodi Matematici [A.A. 2021-2022]
 
-<br/>
-**Attenzione**: <br/>
-Questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali
-<br/>
-
 ## Introduzione
 
 Link alle **dispense**: https://sites.google.com/uniroma1.it/mmi2122/dispense <br/>
 Link al **diario delle lezioni**: https://sites.google.com/uniroma1.it/mmi2122/diario <br/>
 Link ai PDF originali dei **set di esercizi**: https://sites.google.com/uniroma1.it/mmi2122/esercizi <br/>
+
+### Attenzione
+
+Questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali
 
 ## Set di esercizi sulla **Combinatoria**
 
