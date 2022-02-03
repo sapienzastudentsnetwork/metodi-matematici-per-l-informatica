@@ -43,14 +43,15 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 |----|----|----|----|----|-----|----|----|
 | [01](../../issues/78)  | [02](../../issues/79)  | [03](../../issues/80)  | [04](../../issues/81)  | [05](../../issues/82)  | [06](../../issues/83)  | [07](../../issues/84)  | [08](../../issues/85)  |
 | [09](../../issues/86)  | [10](../../issues/87) | [11](../../issues/88) | [12](../../issues/89) | [13](../../issues/90) | [14](../../issues/91)  | [15](../../issues/92) | [16](../../issues/93) |
-| [17](../../issues/94) | [18](../../issues/95) | [19](../../issues/96) | [20](../../issues/97) | [21](../../issues/98) | [22](../../issues/99)  | [23](../../issues/100) | [24](../../issues/101) |
-| | | | | | |
+| [17](../../issues/94) | [18](../../issues/95) | [19](../../issues/96) | [20](../../issues/97) | [21](../../issues/98) | [22](../../issues/99)  | [23](../../issues/100) | [24](../../issues/101) | | | | | | | |
 
 ## Set di esercizi sull'**Induzione**
 
-(WIP: Issues in fase di creazione)
-<br/>
-<br/>
+|    |    |    |    |    |     |    |    |
+|----|----|----|----|----|-----|----|----|
+| [01](../../issues/102)  | [02](../../issues/103)  | [03](../../issues/104)  | [04](../../issues/105)  | [05](../../issues/106)  | [06](../../issues/107)  | [07](../../issues/108)  | [08](../../issues/109)  |
+| [09](../../issues/110)  | [10](../../issues/111) | [11](../../issues/112) | [12](../../issues/113) | [13](../../issues/114) | [14](../../issues/115)  | [15](../../issues/116) | [16](../../issues/117) |
+| [17](../../issues/118) | [18](../../issues/119) | [19](../../issues/120) | [20](../../issues/121) | [21](../../issues/122) | [22](../../issues/123)  | | | | | | | | | |
 
 ## Set di esercizi di **Logica**
 
