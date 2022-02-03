@@ -11,6 +11,11 @@ Di seguito le categorie:
 - [Induzione](#set-di-esercizi-sullinduzione)
 - [Logica](#set-di-esercizi-di-logica)
 
+Oppure:
+- [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
+- [Clicca qui per una lista di esercizi etichettati come da revisionare](../../issues?q=label%3A"da+revisionare")
+- [Clicca qui per vedere gli ultimi aggiornamenti, es. commenti](../../issues?q=sort%3Aupdated-desc+)
+
 Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organizzazione della cosa potete scriverli come commento [qui](../../issues/1), ci saranno sicuramente utili! Grazie in anticipo :)
 
 ### Risorse utili
