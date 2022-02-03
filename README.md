@@ -2,6 +2,8 @@
 
 ## Introduzione
 
+Lo scopo di questo repository GitHub è di utilizzare gli [issues](../../issues?q=) per condividere tra di noi le soluzioni agli esercizi per cercare di rimediare un minimo all'indisponibilità di soluzioni ufficiali, è un progetto che richiede un minimo di partecipazione da parte di tutti ma che è al tempo stesso vantaggioso per tutti
+
 Link alle **dispense**: https://sites.google.com/uniroma1.it/mmi2122/dispense <br/>
 Link al **diario delle lezioni**: https://sites.google.com/uniroma1.it/mmi2122/diario <br/>
 Link ai PDF originali dei **set di esercizi**: https://sites.google.com/uniroma1.it/mmi2122/esercizi <br/>
