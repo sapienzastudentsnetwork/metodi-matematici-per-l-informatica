@@ -8,7 +8,7 @@ Link ai PDF originali dei **set di esercizi**: https://sites.google.com/uniroma1
 Questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali
 <br/>
 <br/>
-Set di esercizi sulla **Combinatoria**
+## Set di esercizi sulla **Combinatoria**
 <br/>
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
@@ -19,22 +19,22 @@ Set di esercizi sulla **Combinatoria**
 | [33](../../issues/34) | [34](../../issues/35) | [35](../../issues/36) | [36](../../issues/37) | [37](../../issues/38) | [38](../../issues/39) | [39](../../issues/40) | [40](../../issues/41) |
 | [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](https://github.com/sapienzastudentsnetwork/mmi2122/issues/49) |
 <br/>
-Set di esercizi sulle **Funzioni**
+## Set di esercizi sulle **Funzioni**
 <br/>
-(Issues in fase di creazione)
-<br/>
-<br/>
-Set di esercizi sulle **Relazioni**
-<br/>
-(Issues in fase di creazione)
+(WIP: Issues in fase di creazione)
 <br/>
 <br/>
-Set di esercizi sull'**Induzione**
+## Set di esercizi sulle **Relazioni**
 <br/>
-(Issues in fase di creazione)
+(WIP: Issues in fase di creazione)
 <br/>
 <br/>
-Set di esercizi di **Logica**
+## Set di esercizi sull'**Induzione**
 <br/>
-(Issues in fase di creazione)
+(WIP: Issues in fase di creazione)
+<br/>
+<br/>
+## Set di esercizi di **Logica**
+<br/>
+(WIP: Issues in fase di creazione)
 <br/>
