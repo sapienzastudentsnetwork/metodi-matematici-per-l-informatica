@@ -4,7 +4,7 @@
 
 Lo scopo di questo repository GitHub è di utilizzare gli [issues](../../issues?q=) per condividere tra di noi le soluzioni agli esercizi (facenti parte dei set di esercizi pubblicati dal professore) in modo da rimediare a modo nostro alla mancanza di soluzioni ufficiali, non sarà mai la stessa cosa ma può comunque essere molto utile. È un progetto che richiede un minimo di partecipazione da parte di tutti ma che è al tempo stesso vantaggioso per tutti. 
 
-Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organizzazione della cosa potete scriverli come commento [qui](../../issues/1)), ci saranno sicuramente utili! Grazie in anticipo :)
+Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organizzazione della cosa potete scriverli come commento [qui](../../issues/1), ci saranno sicuramente utili! Grazie in anticipo :)
 
 ### Risorse utili
 
