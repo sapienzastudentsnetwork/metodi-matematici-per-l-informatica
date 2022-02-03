@@ -4,7 +4,7 @@ Set di esercizi sulla Combinatoria
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [1](./issues/02)  | [2](./issues/03)  | [3](./issues/04)  | [4](./issues/05)  | [5](./issues/06)  | [6](./issues/07)  | [7](./issues/08)  | [8](./issues/09)  |
+| [1](../../issues/02)  | [2](./issues/03)  | [3](./issues/04)  | [4](./issues/05)  | [5](./issues/06)  | [6](./issues/07)  | [7](./issues/08)  | [8](./issues/09)  |
 | [9](./issues/10)  | [10](./issues/11) | [11](./issues/12) | [12](./issues/13) | [13](./issues/14) | [14](./issues/15)  | [15](./issues/16) | [16](./issues/17) |
 | [17](./issues/18) | [18](./issues/19) | [19](./issues/20) | [20](./issues/21) | [21](./issues/22) | [22](./issues/23)  | [23](./issues/24) | [24](./issues/25) |
 | [25](./issues/26) | [26](./issues/27) | [27](./issues/28) | [28](./issues/29) | [29](./issues/30) | [30](./issues/31)  | [31](./issues/32) | [32](./issues/33) |
