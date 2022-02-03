@@ -6,9 +6,12 @@ Lo scopo di questo repository GitHub è di utilizzare gli [issues](../../issues?
 
 Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organizzazione della cosa potete scriverli come commento [qui](../../issues/1)), ci saranno sicuramente utili! Grazie in anticipo :)
 
+### Risorse utili
+
 Link alle **dispense**: https://sites.google.com/uniroma1.it/mmi2122/dispense <br/>
 Link al **diario delle lezioni**: https://sites.google.com/uniroma1.it/mmi2122/diario <br/>
 Link ai PDF originali dei **set di esercizi**: https://sites.google.com/uniroma1.it/mmi2122/esercizi <br/>
+Link alle tracce e ai risultati degli **esami** di quest'anno accademico: https://sites.google.com/uniroma1.it/mmi2122/esami <br/>
 
 ### Attenzione
 
