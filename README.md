@@ -39,9 +39,12 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 ## Set di esercizi sulle **Relazioni**
 
-(WIP: Issues in fase di creazione)
-<br/>
-<br/>
+|    |    |    |    |    |     |    |    |
+|----|----|----|----|----|-----|----|----|
+| [01](../../issues/78)  | [02](../../issues/79)  | [03](../../issues/80)  | [04](../../issues/81)  | [05](../../issues/82)  | [06](../../issues/83)  | [07](../../issues/84)  | [08](../../issues/85)  |
+| [09](../../issues/86)  | [10](../../issues/87) | [11](../../issues/88) | [12](../../issues/89) | [13](../../issues/90) | [14](../../issues/91)  | [15](../../issues/92) | [16](../../issues/93) |
+| [17](../../issues/94) | [18](../../issues/95) | [19](../../issues/96) | [20](../../issues/97) | [21](../../issues/98) | [22](../../issues/99)  | [23](../../issues/100) | [24](../../issues/101) |
+| | | | | | |
 
 ## Set di esercizi sull'**Induzione**
 
