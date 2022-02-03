@@ -1,13 +1,16 @@
 # [A/L] Metodi Matematici [A.A. 2021-2022]
 
-Link alle **dispense**: https://sites.google.com/uniroma1.it/mmi2122/dispense <br/>
-Link al **diario delle lezioni**: https://sites.google.com/uniroma1.it/mmi2122/diario <br/>
-Link ai PDF originali dei **set di esercizi**: https://sites.google.com/uniroma1.it/mmi2122/esercizi <br/>
 <br/>
 **Attenzione**: <br/>
 Questo repository è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali
 <br/>
-<br/>
+
+## Introduzione
+
+Link alle **dispense**: https://sites.google.com/uniroma1.it/mmi2122/dispense <br/>
+Link al **diario delle lezioni**: https://sites.google.com/uniroma1.it/mmi2122/diario <br/>
+Link ai PDF originali dei **set di esercizi**: https://sites.google.com/uniroma1.it/mmi2122/esercizi <br/>
+
 ## Set di esercizi sulla **Combinatoria**
 
 |    |    |    |    |    |     |    |    |
@@ -19,22 +22,27 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 | [33](../../issues/34) | [34](../../issues/35) | [35](../../issues/36) | [36](../../issues/37) | [37](../../issues/38) | [38](../../issues/39) | [39](../../issues/40) | [40](../../issues/41) |
 | [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](https://github.com/sapienzastudentsnetwork/mmi2122/issues/49) |
 <br/>
+
 ## Set di esercizi sulle **Funzioni**
 
 (WIP: Issues in fase di creazione)
 <br/>
 <br/>
+
 ## Set di esercizi sulle **Relazioni**
 
 (WIP: Issues in fase di creazione)
 <br/>
 <br/>
+
 ## Set di esercizi sull'**Induzione**
 
 (WIP: Issues in fase di creazione)
 <br/>
 <br/>
+
 ## Set di esercizi di **Logica**
 
 (WIP: Issues in fase di creazione)
+<br/>
 <br/>
