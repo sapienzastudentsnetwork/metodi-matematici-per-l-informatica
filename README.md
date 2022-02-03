@@ -9,7 +9,7 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 <br/>
 <br/>
 ## Set di esercizi sulla **Combinatoria**
-<br/>
+
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
 | [1](../../issues/02)  | [2](../../issues/03)  | [3](../../issues/04)  | [4](../../issues/05)  | [5](../../issues/06)  | [6](../../issues/07)  | [7](../../issues/08)  | [8](../../issues/09)  |
@@ -20,21 +20,21 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 | [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](https://github.com/sapienzastudentsnetwork/mmi2122/issues/49) |
 <br/>
 ## Set di esercizi sulle **Funzioni**
-<br/>
+
 (WIP: Issues in fase di creazione)
 <br/>
 <br/>
 ## Set di esercizi sulle **Relazioni**
-<br/>
+
 (WIP: Issues in fase di creazione)
 <br/>
 <br/>
 ## Set di esercizi sull'**Induzione**
-<br/>
+
 (WIP: Issues in fase di creazione)
 <br/>
 <br/>
 ## Set di esercizi di **Logica**
-<br/>
+
 (WIP: Issues in fase di creazione)
 <br/>
