@@ -27,9 +27,9 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 | [25](../../issues/26) | [26](../../issues/27) | [27](../../issues/28) | [28](../../issues/29) | [29](../../issues/30) | [30](../../issues/31)  | [31](../../issues/32) | [32](../../issues/33) |
 | [33](../../issues/34) | [34](../../issues/35) | [35](../../issues/36) | [36](../../issues/37) | [37](../../issues/38) | [38](../../issues/39) | [39](../../issues/40) | [40](../../issues/41) |
 | [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](https://github.com/sapienzastudentsnetwork/mmi2122/issues/49) |
-<br/>
 
 ## Set di esercizi sulle **Funzioni**
+
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
 | [01](../../issues/50)  | [02](../../issues/51)  | [03](../../issues/52)  | [04](../../issues/53)  | [05](../../issues/54)  | [06](../../issues/55)  | [07](../../issues/56)  | [08](../../issues/57)  |
@@ -54,7 +54,9 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 | [17](../../issues/118) | [18](../../issues/119) | [19](../../issues/120) | [20](../../issues/121) | [21](../../issues/122) | [22](../../issues/123)  | | | | | | | | | |
 
 ## Set di esercizi di **Logica**
-
-(WIP: Issues in fase di creazione)
-<br/>
-<br/>
+|    |    |    |    |    |     |    |    |
+|----|----|----|----|----|-----|----|----|
+| [01](../../issues/124)  | [02](../../issues/125)  | [03](../../issues/126)  | [04](../../issues/127)  | [05](../../issues/128)  | [06](../../issues/129)  | [07](../../issues/130)  | [08](../../issues/131)  |
+| [09](../../issues/132)  | [10](../../issues/133) | [11](../../issues/134) | [12](../../issues/135) | [13](../../issues/136) | [14](../../issues/137)  | [15](../../issues/138) | [16](../../issues/139) |
+| [17](../../issues/140) | [18](../../issues/141) | [19](../../issues/142) | [20](../../issues/143) | [21](../../issues/144) | [22](../../issues/145)  | [23](../../issues/146) | [24](../../issues/147) |
+| [25](../../issues/148) | [26](../../issues/149) | [27](../../issues/150) | [28](../../issues/151) | [29](../../issues/152) | [30](../../issues/153)  | | |
