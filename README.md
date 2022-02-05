@@ -4,6 +4,13 @@
 
 Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi le soluzioni agli esercizi (facenti parte dei set di esercizi pubblicati dal professore) in modo da rimediare a modo nostro alla mancanza di soluzioni ufficiali. Non sarà mai la stessa cosa ma può comunque essere molto utile. È un progetto che richiede un minimo di partecipazione da parte di tutti ma che è al tempo stesso vantaggioso per tutti. 
 
+**DISCLAIMER:** 
+Nel momento in cui ci si trovi dinnanzi ad un esercizio già svolto da qualcuno e la propria soluzione sia identica, simile e/o confermata in altri modi (es: Doppio Conteggio per la Combinatoria) **_siete pregati di COMMENTARE_**.
+
+Anche solo un _"Soluzione analoga ad X-Persona"_ va bene, ricordiamo che il confermarci le risposte a vicenda è l'unico modo che abbiamo per ottenere delle soluzioni ai quesiti.
+
+### Link rapidi
+
 Di seguito le categorie:
 - [Combinatoria](#set-di-esercizi-sulla-combinatoria)
 - [Funzioni](#set-di-esercizi-sulle-funzioni)
@@ -11,7 +18,7 @@ Di seguito le categorie:
 - [Induzione](#set-di-esercizi-sullinduzione)
 - [Logica](#set-di-esercizi-di-logica)
 
-Oppure:
+Altri collegamenti rapidi:
 - [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
 - [Clicca qui per una lista di esercizi etichettati come da revisionare](../../issues?q=label%3A"da+revisionare")
 - [Clicca qui per vedere gli ultimi aggiornamenti, es. commenti](../../issues?q=sort%3Aupdated-desc+)
@@ -38,7 +45,7 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 | [17](../../issues/18) | [18](../../issues/19) | [19](../../issues/20) | [20](../../issues/21) | [21](../../issues/22) | [22](../../issues/23)  | [23](../../issues/24) | [24](../../issues/25) |
 | [25](../../issues/26) | [26](../../issues/27) | [27](../../issues/28) | [28](../../issues/29) | [29](../../issues/30) | [30](../../issues/31)  | [31](../../issues/32) | [32](../../issues/33) |
 | [33](../../issues/34) | [34](../../issues/35) | [35](../../issues/36) | [36](../../issues/37) | [37](../../issues/38) | [38](../../issues/39) | [39](../../issues/40) | [40](../../issues/41) |
-| [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](https://github.com/sapienzastudentsnetwork/mmi2122/issues/49) |
+| [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](../../issues/49) |
 
 ## Set di esercizi sulle **Funzioni**
 
