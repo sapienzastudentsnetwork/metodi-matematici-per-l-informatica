@@ -59,7 +59,7 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 ## Set di esercizi sull'**Induzione**
 
-_Nota: Tutti gli esercizi di questo Set sono stati svolti almeno da una persona, fatta eccezione per l'esercizio 3_
+_Nota: Tutti gli esercizi di questo Set sono stati svolti da almeno una persona, fatta eccezione per l'esercizio 4_
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
