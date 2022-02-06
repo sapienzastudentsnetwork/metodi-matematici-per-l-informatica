@@ -4,7 +4,7 @@
 
 Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi le soluzioni agli esercizi (facenti parte dei set di esercizi pubblicati dal professore) in modo da rimediare a modo nostro alla mancanza di soluzioni ufficiali. Non sarà mai la stessa cosa ma può comunque essere molto utile. È un progetto che richiede un minimo di partecipazione da parte di tutti ma che è al tempo stesso vantaggioso per tutti. 
 
-_**N.B**: Ricordate nelle pagine degli esercizi (issues) di aggiungere come "reazione" **alle soluzioni a vostro avviso corrette** un pollice in sù o di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>" per confermarle ulteriormente; ovviamente anche altri approcci risolutivi che portano allo stesso risultato (e quindi lo confermano ulteriormente) sono i benvenuti!_
+_**N.B**: Ricordate nelle pagine degli esercizi (issues) di aggiungere come "reazione" **alle soluzioni a vostro avviso corrette** un pollice in sù o di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato (e quindi lo confermano ulteriormente, vedi dimostrazione per Doppio Conteggio in Combinatoria) sono i benvenuti!_
 
 ### Link rapidi
 
