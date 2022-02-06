@@ -4,10 +4,7 @@
 
 Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi le soluzioni agli esercizi (facenti parte dei set di esercizi pubblicati dal professore) in modo da rimediare a modo nostro alla mancanza di soluzioni ufficiali. Non sarà mai la stessa cosa ma può comunque essere molto utile. È un progetto che richiede un minimo di partecipazione da parte di tutti ma che è al tempo stesso vantaggioso per tutti. 
 
-**DISCLAIMER:** 
-Nel momento in cui ci si trovi dinnanzi ad un esercizio già svolto da qualcuno e la propria soluzione sia identica, simile e/o confermata in altri modi (es: Doppio Conteggio per la Combinatoria) **_siete pregati di COMMENTARE_**.
-
-Anche solo un _"Soluzione analoga ad X-Persona"_ va bene, ricordiamo che il confermarci le risposte a vicenda è l'unico modo che abbiamo per ottenere delle soluzioni ai quesiti.
+_**N.B**: Ricordate negli Issues di aggiungere come "reazione" alle soluzioni per voi corrette un pollice in sù o di aggiungere un commento del tipo "Soluzione analoga a quella di <nome>" per confermarle ulteriormente; ovviamente anche altri approcci risolutivi che portano allo stesso risultato (e quindi lo confermano ulteriormente) sono i benvenuti!_
 
 ### Link rapidi
 
