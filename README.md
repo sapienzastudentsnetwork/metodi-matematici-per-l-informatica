@@ -14,6 +14,7 @@ Di seguito le categorie:
 - [Relazioni](#set-di-esercizi-sulle-relazioni)
 - [Induzione](#set-di-esercizi-sullinduzione)
 - [Logica](#set-di-esercizi-di-logica)
+- [Appello del 09/09/2021](#appello-del-9-settembre-2021)
 - [Appello del 12/01/2022](#appello-del-12-gennaio-2022)
 
 Altri collegamenti rapidi:
@@ -79,6 +80,15 @@ _Nota: Tutti gli esercizi di questo Set sono stati svolti da almeno una persona,
 | [09](../../issues/132)  | [10](../../issues/133) | [11](../../issues/134) | [12](../../issues/135) | [13](../../issues/136) | [14](../../issues/137)  | [15](../../issues/138) | [16](../../issues/139) |
 | [17](../../issues/140) | [18](../../issues/141) | [19](../../issues/142) | [20](../../issues/143) | [21](../../issues/144) | [22](../../issues/145)  | [23](../../issues/146) | [24](../../issues/147) |
 | [25](../../issues/148) | [26](../../issues/149) | [27](../../issues/150) | [28](../../issues/151) | [29](../../issues/152) | [30](../../issues/153)  | | |
+
+## Appello del 9 settembre 2021
+
+_Gli esercizi 2, 3, 5 e 8 di questo set (li troverete etichettati come "duplicati") erano già inclusi nei Set di esercizi_
+
+|    |    |    |    |    |     |    |    |
+|----|----|----|----|----|-----|----|----|
+| [01](../../issues/102)  | [02](../../issues/103)  | [03](../../issues/104)  | [04](../../issues/105)  | [05](../../issues/106)  | [06](../../issues/107)  | [07](../../issues/108)  | [08](../../issues/109)  |
+| [09](../../issues/110)  | [10](../../issues/111) | | |
 
 ## Appello del 12 gennaio 2022
 
