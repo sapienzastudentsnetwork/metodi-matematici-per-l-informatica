@@ -83,7 +83,7 @@ _Nota: Tutti gli esercizi di questo Set sono stati svolti da almeno una persona,
 
 ## Appello del 9 settembre 2021
 
-_Gli esercizi 2, 3, 5 e 8 di questo set (li troverete etichettati come "duplicati") erano già inclusi nei Set di esercizi_
+_Gli esercizi 2, 3, 5 e 8 di questo appello (li troverete etichettati come "duplicati") erano già inclusi nei Set di esercizi_
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
