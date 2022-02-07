@@ -14,7 +14,7 @@ Di seguito le categorie:
 - [Relazioni](#set-di-esercizi-sulle-relazioni)
 - [Induzione](#set-di-esercizi-sullinduzione)
 - [Logica](#set-di-esercizi-di-logica)
-- [12/01/2022](#appello-del-12-gennaio-2022)
+- [Appello del 12/01/2022](#appello-del-12-gennaio-2022)
 
 Altri collegamenti rapidi:
 - [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
