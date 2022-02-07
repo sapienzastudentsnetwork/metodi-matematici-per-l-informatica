@@ -14,6 +14,7 @@ Di seguito le categorie:
 - [Relazioni](#set-di-esercizi-sulle-relazioni)
 - [Induzione](#set-di-esercizi-sullinduzione)
 - [Logica](#set-di-esercizi-di-logica)
+- [12/01/2022](#
 
 Altri collegamenti rapidi:
 - [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
@@ -78,3 +79,9 @@ _Nota: Tutti gli esercizi di questo Set sono stati svolti da almeno una persona,
 | [09](../../issues/132)  | [10](../../issues/133) | [11](../../issues/134) | [12](../../issues/135) | [13](../../issues/136) | [14](../../issues/137)  | [15](../../issues/138) | [16](../../issues/139) |
 | [17](../../issues/140) | [18](../../issues/141) | [19](../../issues/142) | [20](../../issues/143) | [21](../../issues/144) | [22](../../issues/145)  | [23](../../issues/146) | [24](../../issues/147) |
 | [25](../../issues/148) | [26](../../issues/149) | [27](../../issues/150) | [28](../../issues/151) | [29](../../issues/152) | [30](../../issues/153)  | | |
+
+## Appello del 12 gennaio 2022
+
+|    |    |    |    |    |     |    |    |
+|----|----|----|----|----|-----|----|----|
+| [01](../../issues/154)  | [02](../../issues/155)  | [03](../../issues/156)  | [04](../../issues/157)  | [05](../../issues/158)  | [06](../../issues/159)  | | |
