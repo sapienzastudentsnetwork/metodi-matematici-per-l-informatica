@@ -87,8 +87,8 @@ _Gli esercizi 2, 3, 5 e 8 di questo set (li troverete etichettati come "duplicat
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [01](../../issues/102)  | [02](../../issues/103)  | [03](../../issues/104)  | [04](../../issues/105)  | [05](../../issues/106)  | [06](../../issues/107)  | [07](../../issues/108)  | [08](../../issues/109)  |
-| [09](../../issues/110)  | [10](../../issues/111) | | |
+| [01](../../issues/160)  | [02](../../issues/161)  | [03](../../issues/162)  | [04](../../issues/163)  | [05](../../issues/164)  | [06](../../issues/165)  | [07](../../issues/166)  | [08](../../issues/167)  |
+| [09](../../issues/168)  | [10](../../issues/169) | | |
 
 ## Appello del 12 gennaio 2022
 
