@@ -101,4 +101,4 @@ _Gli esercizi 2, 3, 5 e 8 di questo appello (li troverete etichettati come "dupl
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [01](../../issues/160)  | [02](../../issues/161)  | [03](../../issues/162)  | [04](../../issues/163)  | [05](../../issues/164)  | [06](../../issues/165)  | | |
+| [01](../../issues/166)  | [02](../../issues/167)  | [03](../../issues/168)  | [04](../../issues/169)  | [05](../../issues/170)  | [06](../../issues/171)  | | |
