@@ -16,6 +16,7 @@ Di seguito le categorie:
 - [Logica](#set-di-esercizi-di-logica)
 - [Appello del 09/09/2021](#appello-del-9-settembre-2021)
 - [Appello del 12/01/2022](#appello-del-12-gennaio-2022)
+- [Appello del 08/02/2022](#appello-del-8-febbraio-2022)
 
 Altri collegamenti rapidi:
 - [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
@@ -95,3 +96,9 @@ _Gli esercizi 2, 3, 5 e 8 di questo appello (li troverete etichettati come "dupl
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
 | [01](../../issues/154)  | [02](../../issues/155)  | [03](../../issues/156)  | [04](../../issues/157)  | [05](../../issues/158)  | [06](../../issues/159)  | | |
+
+## Appello del 8 febbraio 2022
+
+|    |    |    |    |    |     |    |    |
+|----|----|----|----|----|-----|----|----|
+| [01](../../issues/160)  | [02](../../issues/161)  | [03](../../issues/162)  | [04](../../issues/163)  | [05](../../issues/164)  | [06](../../issues/165)  | | |
