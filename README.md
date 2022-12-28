@@ -2,11 +2,13 @@
 
 ## Introduzione
 
-Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi le soluzioni agli esercizi (facenti parte dei set di esercizi pubblicati dal professore) in modo da rimediare a modo nostro alla mancanza di soluzioni ufficiali. Non sarà mai la stessa cosa ma può comunque essere molto utile. È un progetto che richiede un minimo di partecipazione da parte di tutti ma che è al tempo stesso vantaggioso per tutti. 
+Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi le soluzioni agli esercizi facenti parte dei set di esercizi pubblicati dal prof. Lorenzo Carlucci durante l'A.A. 2021-2022 in modo da rimediare a modo nostro alla mancanza di soluzioni ufficiali. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
-_**N.B**: Ricordate nelle pagine degli esercizi (issues) di aggiungere come "reazione" **alle soluzioni a vostro avviso corrette** un pollice in sù o di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato (e quindi lo confermano ulteriormente, vedi dimostrazione per Doppio Conteggio in Combinatoria) sono i benvenuti!_
+__**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi con soluzioni confermate in classe dal professore o su GitHub da più di uno studente, per cui **se la tua soluzione coincide con quella pubblicata da un altro utente ricodati** nelle pagine degli esercizi (issues) **di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"**; ovviamente anche altri approcci risolutivi che portano allo stesso risultato per confermarlo ulteriormente (vedi dimostrazione per Doppio Conteggio in Combinatoria) sono i benvenuti!__
 
-### Link rapidi
+### Collegamenti rapidi
+
+#### Filtri per categoria
 
 Di seguito le categorie:
 - [Combinatoria](#set-di-esercizi-sulla-combinatoria)
@@ -18,10 +20,12 @@ Di seguito le categorie:
 - [Appello del 12/01/2022](#appello-del-12-gennaio-2022)
 - [Appello del 08/02/2022](#appello-del-8-febbraio-2022)
 
-Altri collegamenti rapidi:
-- [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
-- [Clicca qui per una lista di esercizi etichettati come da revisionare](../../issues?q=label%3A"da+revisionare")
-- [Clicca qui per vedere gli ultimi aggiornamenti, es. commenti](../../issues?q=sort%3Aupdated-desc+)
+#### Filtri per stato
+
+- [Esercizi da risolvere](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3A"da+risolvere"+)
+- [Esercizi con soluzioni pubblicate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+-label%3A"da+risolvere")
+- [Esercizi con soluzioni confermate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3Arisolto)
+- [Aggiornamenti (commenti / soluzioni) più recenti](../../issues?q=sort%3Aupdated-desc+)
 
 Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organizzazione della cosa potete scriverli come commento [qui](../../issues/1), ci saranno sicuramente utili! Grazie in anticipo :)
 
