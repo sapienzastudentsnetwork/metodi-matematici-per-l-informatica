@@ -11,13 +11,14 @@ body:
   validations:
     required: true
 - type: dropdown
-  id: subject
+  id: exam-part
   attributes:
     label: Parte
     options:
       - Prima parte
       - Induzione
       - Logica
+      - Esame diviso in parti diverse
       - Esame non diviso in parti
   validations:
     required: true
