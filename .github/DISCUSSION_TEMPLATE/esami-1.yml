@@ -1,5 +1,5 @@
 title: "[(data, es. 4 Gennaio 2024)] Esercizio (numero, es. 2)"
-labels: ["assegnare labels"]
+labels: ["esame", "assegnare labels"]
 body:
 - type: dropdown
   id: subject
