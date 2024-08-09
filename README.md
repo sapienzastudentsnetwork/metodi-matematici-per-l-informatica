@@ -6,5 +6,5 @@ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni a
 
 Scegli un Canale di Insegnamento per iniziare subito ad esplorare Esercizi e Soluzioni:
 
-- **Prof.** Lorenzo [**Carlucci (A/L)**](blob/main/carlucci/README.md#carlucci-al)
-- **Prof.** Adolfo [**Piperno (M/Z)**](blob/main/piperno/README.md#piperno-mz)
+- **Prof.** Lorenzo [**Carlucci (A/L)**](carlucci/README.md#carlucci-al)
+- **Prof.** Adolfo [**Piperno (M/Z)**](piperno/README.md#piperno-mz)
