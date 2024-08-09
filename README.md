@@ -1,4 +1,4 @@
-# [A/L] Metodi Matematici [A.A. 2021-2022]
+# [A/L] Metodi Matematici
 
 ## Introduzione
 
@@ -20,15 +20,6 @@ Di seguito le categorie:
 - [Appello del 12/01/2022](#appello-del-12-gennaio-2022)
 - [Appello del 08/02/2022](#appello-del-8-febbraio-2022)
 
-#### Filtri per stato
-
-- [Esercizi da risolvere](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3A"da+risolvere"+)
-- [Esercizi con soluzioni pubblicate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+-label%3A"da+risolvere"+-label%3A"duplicato")
-- [Esercizi con soluzioni confermate](../../issues?q=is%3Aissue+sort%3Aupdated-desc+label%3Arisolto)
-- [Aggiornamenti (commenti / soluzioni) più recenti](../../issues?q=sort%3Aupdated-desc+)
-
-Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organizzazione della cosa potete scriverli come commento [qui](../../issues/1), ci saranno sicuramente utili! Grazie in anticipo :)
-
 ### Risorse utili
 
 Link alle **dispense**: https://sites.google.com/uniroma1.it/mmi2122/dispense <br/>
@@ -42,65 +33,65 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 ## Set di esercizi sulla **Combinatoria**
 
-|    |    |    |    |    |     |    |    |
-|----|----|----|----|----|-----|----|----|
-| [01](../../issues/02)  | [02](../../issues/03)  | [03](../../issues/04)  | [04](../../issues/05)  | [05](../../issues/06)  | [06](../../issues/07)  | [07](../../issues/08)  | [08](../../issues/09)  |
-| [09](../../issues/10)  | [10](../../issues/11) | [11](../../issues/12) | [12](../../issues/13) | [13](../../issues/14) | [14](../../issues/15)  | [15](../../issues/16) | [16](../../issues/17) |
-| [17](../../issues/18) | [18](../../issues/19) | [19](../../issues/20) | [20](../../issues/21) | [21](../../issues/22) | [22](../../issues/23)  | [23](../../issues/24) | [24](../../issues/25) |
-| [25](../../issues/26) | [26](../../issues/27) | [27](../../issues/28) | [28](../../issues/29) | [29](../../issues/30) | [30](../../issues/31)  | [31](../../issues/32) | [32](../../issues/33) |
-| [33](../../issues/34) | [34](../../issues/35) | [35](../../issues/36) | [36](../../issues/37) | [37](../../issues/38) | [38](../../issues/39) | [39](../../issues/40) | [40](../../issues/41) |
-| [41](../../issues/42) | [42](../../issues/43) | [43](../../issues/44) | [44](../../issues/45) | [45](../../issues/46) | [46](../../issues/47)  | [47](../../issues/48) | [48](../../issues/49) |
+|                        |                        |                        |                        |                        |                        |                        |                        |
+|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| [01](../../discussions/177) | [02](../../discussions/178) | [03](../../discussions/179) | [04](../../discussions/180) | [05](../../discussions/181) | [06](../../discussions/182) | [07](../../discussions/183) | [08](../../discussions/184) |
+| [09](../../discussions/185) | [10](../../discussions/186) | [11](../../discussions/187) | [12](../../discussions/188) | [13](../../discussions/189) | [14](../../discussions/190) | [15](../../discussions/191) | [16](../../discussions/192) |
+| [17](../../discussions/193) | [18](../../discussions/194) | [19](../../discussions/195) | [20](../../discussions/196) | [21](../../discussions/197) | [22](../../discussions/198) | [23](../../discussions/199) | [24](../../discussions/200) |
+| [25](../../discussions/201) | [26](../../discussions/202) | [27](../../discussions/203) | [28](../../discussions/204) | [29](../../discussions/205) | [30](../../discussions/206) | [31](../../discussions/207) | [32](../../discussions/208) |
+| [33](../../discussions/209) | [34](../../discussions/210) | [35](../../discussions/211) | [36](../../discussions/212) | [37](../../discussions/213) | [38](../../discussions/214) | [39](../../discussions/215) | [40](../../discussions/216) |
+| [41](../../discussions/229) | [42](../../discussions/230) | [43](../../discussions/231) | [44](../../discussions/232) | [45](../../discussions/233) | [46](../../discussions/234) | [47](../../discussions/235) | [48](../../discussions/236) |
 
 ## Set di esercizi sulle **Funzioni**
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [01](../../issues/50)  | [02](../../issues/51)  | [03](../../issues/52)  | [04](../../issues/53)  | [05](../../issues/54)  | [06](../../issues/55)  | [07](../../issues/56)  | [08](../../issues/57)  |
-| [09](../../issues/58)  | [10](../../issues/59) | [11](../../issues/60) | [12](../../issues/61) | [13](../../issues/62) | [14](../../issues/63)  | [15](../../issues/64) | [16](../../issues/65) |
-| [17](../../issues/66) | [18](../../issues/67) | [19](../../issues/68) | [20](../../issues/69) | [21](../../issues/70) | [22](../../issues/71)  | [23](../../issues/72) | [24](../../issues/73) |
-| [25](../../issues/74) | [26](../../issues/75) | [27](../../issues/76) | [28](../../issues/77) | | |
+| [01](../../discussions/241)  | [02](../../discussions/242)  | [03](../../discussions/243)  | [04](../../discussions/244)  | [05](../../discussions/245)  | [06](../../discussions/246)  | [07](../../discussions/247)  | [08](../../discussions/248)  |
+| [09](../../discussions/249)  | [10](../../discussions/250) | [11](../../discussions/251) | [12](../../discussions/252) | [13](../../discussions/253) | [14](../../discussions/254)  | [15](../../discussions/255) | [16](../../discussions/256) |
+| [17](../../discussions/257) | [18](../../discussions/258) | [19](../../discussions/259) | [20](../../discussions/260) | [21](../../discussions/261) | [22](../../discussions/262)  | [23](../../discussions/263) | [24](../../discussions/264) |
+| [25](../../discussions/265) | [26](../../discussions/266) | [27](../../discussions/267) | [28](../../discussions/268) | | |
 
 ## Set di esercizi sulle **Relazioni**
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [01](../../issues/78)  | [02](../../issues/79)  | [03](../../issues/80)  | [04](../../issues/81)  | [05](../../issues/82)  | [06](../../issues/83)  | [07](../../issues/84)  | [08](../../issues/85)  |
-| [09](../../issues/86)  | [10](../../issues/87) | [11](../../issues/88) | [12](../../issues/89) | [13](../../issues/90) | [14](../../issues/91)  | [15](../../issues/92) | [16](../../issues/93) |
-| [17](../../issues/94) | [18](../../issues/95) | [19](../../issues/96) | [20](../../issues/97) | [21](../../issues/98) | [22](../../issues/99)  | [23](../../issues/100) | [24](../../issues/101) | | | | | | | |
+| [01](../../discussions/273)  | [02](../../discussions/274)  | [03](../../discussions/275)  | [04](../../discussions/276)  | [05](../../discussions/277)  | [06](../../discussions/278)  | [07](../../discussions/279)  | [08](../../discussions/280)  |
+| [09](../../discussions/281)  | [10](../../discussions/282) | [11](../../discussions/283) | [12](../../discussions/284) | [13](../../discussions/285) | [14](../../discussions/286)  | [15](../../discussions/287) | [16](../../discussions/288) |
+| [17](../../discussions/289) | [18](../../discussions/290) | [19](../../discussions/291) | [20](../../discussions/292) | [21](../../discussions/293) | [22](../../discussions/294)  | [23](../../discussions/295) | [24](../../discussions/296) | | | | | | | |
 
 ## Set di esercizi sull'**Induzione**
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [01](../../issues/102)  | [02](../../issues/103)  | [03](../../issues/104)  | [04](../../issues/105)  | [05](../../issues/106)  | [06](../../issues/107)  | [07](../../issues/108)  | [08](../../issues/109)  |
-| [09](../../issues/110)  | [10](../../issues/111) | [11](../../issues/112) | [12](../../issues/113) | [13](../../issues/114) | [14](../../issues/115)  | [15](../../issues/116) | [16](../../issues/117) |
-| [17](../../issues/118) | [18](../../issues/119) | [19](../../issues/120) | [20](../../issues/121) | [21](../../issues/122) | [22](../../issues/123)  | | | | | | | | | |
+| [01](../../issues/301)  | [02](../../issues/302)  | [03](../../issues/303)  | [04](../../issues/304)  | [05](../../issues/305)  | [06](../../issues/306)  | [07](../../issues/307)  | [08](../../issues/308)  |
+| [09](../../issues/309)  | [10](../../issues/310) | [11](../../issues/311) | [12](../../issues/312) | [13](../../issues/313) | [14](../../issues/314)  | [15](../../issues/315) | [16](../../issues/316) |
+| [17](../../issues/317) | [18](../../issues/318) | [19](../../issues/319) | [20](../../issues/320) | [21](../../issues/321) | [22](../../issues/322)  | | | | | | | | | |
 
 ## Set di esercizi di **Logica**
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
-| [01](../../issues/124)  | [02](../../issues/125)  | [03](../../issues/126)  | [04](../../issues/127)  | [05](../../issues/128)  | [06](../../issues/129)  | [07](../../issues/130)  | [08](../../issues/131)  |
-| [09](../../issues/132)  | [10](../../issues/133) | [11](../../issues/134) | [12](../../issues/135) | [13](../../issues/136) | [14](../../issues/137)  | [15](../../issues/138) | [16](../../issues/139) |
-| [17](../../issues/140) | [18](../../issues/141) | [19](../../issues/142) | [20](../../issues/143) | [21](../../issues/144) | [22](../../issues/145)  | [23](../../issues/146) | [24](../../issues/147) |
-| [25](../../issues/148) | [26](../../issues/149) | [27](../../issues/150) | [28](../../issues/151) | [29](../../issues/152) | [30](../../issues/153)  | | |
+| [01](../../issues/327)  | [02](../../issues/328)  | [03](../../issues/329)  | [04](../../issues/330)  | [05](../../issues/331)  | [06](../../issues/332)  | [07](../../issues/333)  | [08](../../issues/334)  |
+| [09](../../issues/335)  | [10](../../issues/336) | [11](../../issues/337) | [12](../../issues/338) | [13](../../issues/339) | [14](../../issues/340)  | [15](../../issues/341) | [16](../../issues/342) |
+| [17](../../issues/343) | [18](../../issues/344) | [19](../../issues/345) | [20](../../issues/346) | [21](../../issues/347) | [22](../../issues/348)  | [23](../../issues/349) | [24](../../issues/350) |
+| [25](../../issues/351) | [26](../../issues/352) | [27](../../issues/353) | [28](../../issues/354) | [29](../../issues/355) | [30](../../issues/356)  | | |
 
 ## Appello del 9 settembre 2021
 
 _Gli esercizi 2, 3, 5 e 8 di questo appello (li troverete etichettati come "duplicati") erano già inclusi nei Set di esercizi_
 
-|    |    |    |    |    |     |    |    |
-|----|----|----|----|----|-----|----|----|
-| [01](../../issues/160)  | [02](../../issues/161)  | [03](../../issues/162)  | [04](../../issues/163)  | [05](../../issues/164)  | [06](../../issues/165)  | [07](../../issues/166)  | [08](../../issues/167)  |
-| [09](../../issues/168)  | [10](../../issues/169) | | |
+|                             |                             |                             |                             |                             |                             |                             |                             |
+|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+| [01](../../discussions/238) | [02](../../discussions/239) | [03](../../discussions/270) | [04](../../discussions/271) | [05](../../discussions/298) | [06](../../discussions/324) | [07](../../discussions/325) | [08](../../discussions/361) |
+| [09](../../discussions/362) | [10](../../discussions/299) |                             |                             |
 
 ## Appello del 12 gennaio 2022
 
-|    |    |    |    |    |     |    |    |
-|----|----|----|----|----|-----|----|----|
-| [01](../../issues/154)  | [02](../../issues/155)  | [03](../../issues/156)  | [04](../../issues/157)  | [05](../../issues/158)  | [06](../../issues/159)  | | |
+|                             |                             |                             |                             |                             |                             |    |    |
+|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|----|----|
+| [01](../../discussions/237) | [02](../../discussions/269) | [03](../../discussions/297) | [04](../../discussions/323) | [05](../../discussions/357) | [06](../../discussions/358) |    |    |
 
 ## Appello del 8 febbraio 2022
 
-|    |    |    |    |    |     |    |    |
-|----|----|----|----|----|-----|----|----|
-| [01](../../issues/170)  | [02](../../issues/171)  | [03](../../issues/172)  | [04](../../issues/173)  | [05](../../issues/174)  | [06](../../issues/175)  | | |
+|                             |                             |                             |                             |                             |                             |    |    |
+|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|----|----|
+| [01](../../discussions/240) | [02](../../discussions/272) | [03](../../discussions/300) | [04](../../discussions/326) | [05](../../discussions/359) | [06](../../discussions/360) |    |    |
