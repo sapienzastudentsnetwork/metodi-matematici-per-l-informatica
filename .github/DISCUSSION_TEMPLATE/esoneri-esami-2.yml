@@ -41,9 +41,9 @@ body:
     description: Incolla/inserisci qui uno screenshot della traccia dell'esercizio
   validations:
     required: true
-- type: textarea
-  attributes:
-    label: Soluzione del professore
-    description: Includi un'eventuale soluzione del professore (se in tuo possesso). Una volta completato l'inserimento della discussion potrai aggiungere, come commento, anche una tua eventuale proposta di soluzione 🙂
-  validations:
-    required: false
+#- type: textarea
+#  attributes:
+#    label: Soluzione del professore
+#    description: Includi un'eventuale soluzione del professore (se in tuo possesso). Una volta completato l'inserimento della discussion potrai aggiungere, come commento, anche una tua eventuale proposta di soluzione 🙂
+#  validations:
+#    required: false
