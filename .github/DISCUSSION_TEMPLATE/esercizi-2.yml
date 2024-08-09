@@ -1,4 +1,4 @@
-title: "[<Argomento>] Esercizio <numero>"
+title: "[(data, es. 4 Gennaio 2024)] Esercizio (numero, es. 2)"
 labels: ["assegnare labels"]
 body:
 - type: dropdown
@@ -16,7 +16,7 @@ body:
 - type: textarea
   attributes:
     label: Traccia
-    description: Incolla/inserisci qui uno screenshot della traccia dell'esercizio
+    description: Incolla/inserisci qui uno screenshot della traccia dell'esercizio. Assicurati di modificare anche il
   validations:
     required: true
 - type: input

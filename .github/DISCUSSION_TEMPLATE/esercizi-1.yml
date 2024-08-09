@@ -1,4 +1,4 @@
-title: "[<Argomento>] Esercizio <numero>"
+title: "[(data, es. 4 Gennaio 2024)] Esercizio (numero, es. 2)"
 labels: ["assegnare labels"]
 body:
 - type: dropdown
