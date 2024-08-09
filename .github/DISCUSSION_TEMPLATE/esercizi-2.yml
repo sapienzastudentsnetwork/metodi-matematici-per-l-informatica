@@ -6,11 +6,11 @@ body:
   attributes:
     label: Argomento
     options:
-      - Combinatoria
-      - Funzioni
-      - Relazioni
+      - Insiemi, relazioni, funzioni
+      - Numerabilità, equivalenza
       - Induzione
       - Logica
+      - Altro
   validations:
     required: true
 - type: textarea
