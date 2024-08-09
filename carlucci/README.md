@@ -27,7 +27,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Traccia di Esame
 
-- [9 settembre 2021]((../../../discussions?discussions_q=is%3Aopen+label%3A"9+settembre+2021"))
+- [9 settembre 2021](../../../discussions?discussions_q=is%3Aopen+label%3A"9+settembre+2021")
 - [12 gennaio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"12+gennaio+2022")
 - [8 febbraio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2022")
 
