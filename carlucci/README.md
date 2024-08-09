@@ -1,16 +1,16 @@
 # Carlucci (A/L)
 
-## Indice
+## 🗂 Indice
 
-- [Collegamenti rapidi](#collegamenti-rapidi)
-- [Risorse utili](#risorse-utili)
-- [Set di Esercizi (A.A. 2021-22)](#set-di-esercizi-aa-2021-22-1)
+- [Collegamenti rapidi](#-collegamenti-rapidi)
+- [Risorse utili](#-risorse-utili)
+- [Set di Esercizi (A.A. 2021-22)](#-set-di-esercizi-aa-2021-22)
 
-## Attenzione
+## ⚠️ Attenzione
 
 Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Matematici per l'Informatica assegnati dal prof. Lorenzo Carlucci è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
 
-## Collegamenti rapidi
+## 🔗 Collegamenti rapidi
 
 ### Filtri per Argomento
 
@@ -22,8 +22,8 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Tipologia
 
-- [Esercizi per casa](../../../discussions/categories/esercizi-1)
 - [Esercizi d'esame](../../../discussions/categories/esami-1)
+- [Esercizi per casa](../../../discussions/categories/esercizi-1)
 
 ### Filtri per Traccia di Esame
 
@@ -39,7 +39,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 - [Induzione](#induzione)
 - [Logica](#logica)
 
-## Risorse utili
+## 🗃 Risorse utili
 
 |                             Dispense                             |                             Esercizi                             |                        Tracce di Esame                        |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------------------------------------------:|
@@ -47,7 +47,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/dispense) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esercizi) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esami) |
 | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/dispense) | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/esercizi) | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/esami) |
 
-## Set di Esercizi (A.A. 2021-22)
+## 📝 Set di Esercizi (A.A. 2021-22)
 
 ### Combinatoria
 
