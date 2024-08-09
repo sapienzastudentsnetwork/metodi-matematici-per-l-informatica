@@ -79,20 +79,18 @@ Questo repository è gestito e contribuito da studenti e in quanto tale non è u
 
 _Gli esercizi 2, 3, 5 e 8 di questo appello (li troverete etichettati come "duplicati") erano già inclusi nei Set di esercizi_
 
-|                             |                             |                             |                             |
-|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-| [01](../../discussions/238) | [02](../../discussions/239) | [03](../../discussions/270) | [04](../../discussions/271) |
-| [05](../../discussions/298) | [06](../../discussions/324) | [07](../../discussions/325) | [08](../../discussions/361) |
-| [09](../../discussions/362) | [10](../../discussions/299) |                             |                             |
+| Combinatoria | Funzioni |           Relazioni           | Induzione | Logica |
+|:------------:|:--------:|:-----------------------------:|:---------:|:------:|
+| [01](../../discussions/238), [02](../../discussions/239) | [03](../../discussions/270), [04](../../discussions/271) | [05](../../discussions/298), [10](../../discussions/299) | [06](../../discussions/324), [07](../../discussions/325) | [08](../../discussions/361), [09](../../discussions/362) |
 
 ## Appello del 12 gennaio 2022
 
-| Esercizio 1                           | Esercizio 2                       | Esercizio 3                        | Esercizio 4                        | Esercizio 5                     | Esercizio 6                     |
-|---------------------------------------|-----------------------------------|------------------------------------|------------------------------------|---------------------------------|---------------------------------|
+|              Esercizio 1              |            Esercizio 2            |            Esercizio 3             |            Esercizio 4             |           Esercizio 5           |           Esercizio 6           |
+|:-------------------------------------:|:---------------------------------:|:----------------------------------:|:----------------------------------:|:-------------------------------:|:-------------------------------:|
 | [Combinatoria](../../discussions/237) | [Funzioni](../../discussions/269) | [Relazioni](../../discussions/297) | [Induzione](../../discussions/323) | [Logica](../../discussions/357) | [Logica](../../discussions/358) |
 
 ## Appello del 8 febbraio 2022
 
-| Esercizio 1                           | Esercizio 2                       | Esercizio 3                        | Esercizio 4                        | Esercizio 5                     | Esercizio 6                     |
-|---------------------------------------|-----------------------------------|------------------------------------|------------------------------------|---------------------------------|---------------------------------|
+|              Esercizio 1              |            Esercizio 2            |            Esercizio 3             |            Esercizio 4             |           Esercizio 5           |           Esercizio 6           |
+|:-------------------------------------:|:---------------------------------:|:----------------------------------:|:----------------------------------:|:-------------------------------:|:-------------------------------:|
 | [Combinatoria](../../discussions/240) | [Funzioni](../../discussions/272) | [Relazioni](../../discussions/300) | [Induzione](../../discussions/326) | [Logica](../../discussions/359) | [Logica](../../discussions/360) |
