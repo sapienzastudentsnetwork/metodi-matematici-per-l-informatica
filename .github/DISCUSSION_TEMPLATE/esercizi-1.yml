@@ -1,0 +1,27 @@
+title: "[<Combinatoria/Funzioni/Relazioni/Induzione/Logica>] Esercizio <numero>"
+labels: ["assegnare labels"]
+body:
+- type: textarea
+  attributes:
+    label: Traccia
+    description: Inserisci la traccia dell'esercizio come testo LaTeX o screenshot
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Fonte
+    description: Descrivi in quale slide, lezione o documento è stata originariamente distribuito questo esercizio (se di tua conoscenza)
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Data di assegnazione
+    description: Inserisci la data in cui l'esercizio è stato originariamente assegnato dal docente (se di tua conoscenza)
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Soluzione del Prof
+    description: Includi un'eventuale soluzione del professore (se in tuo possesso). Una volta completato l'inserimento della discussion, se vuoi potrai aggiungere, come commento, anche una tua eventuale proposta di soluzione 🙂
+  validations:
+    required: false
