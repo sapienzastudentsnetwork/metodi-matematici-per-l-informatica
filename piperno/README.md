@@ -1,6 +1,6 @@
-# Piperno (M/Z)
+# [A.A. 2024/25] Piperno (M-Z)
 
-Work In Progress! Torna a farci visita in questa pagina tra qualche giorno 😉
+Contribuisci all'[aggiunta di esercizi tratti da vecchie tracce d'esame](../../../discussions/new?category=esami-m-z), all'[aggiunta di primi esercizi per casa](../../../discussions/new?category=esercizi-m-z) quando verranno assegnati, oppure torna a farci visita a semestre inoltrato 😉
 
 ## ⚠️ Attenzione
 
@@ -10,5 +10,5 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Tipologia
 
-- [Esercizi d'esame](../../../discussions/categories/esami-2)
-- [Esercizi per casa](../../../discussions/categories/esercizi-2)
+- [Esercizi d'esame](../../../discussions/categories/esami-m-z)
+- [Esercizi per casa](../../../discussions/categories/esercizi-m-z)

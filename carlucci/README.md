@@ -1,4 +1,4 @@
-# Carlucci (A/L)
+# [A.A. 2024/25] Carlucci (A-L)
 
 ## 🗂 Indice
 
@@ -22,8 +22,8 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Tipologia
 
-- [Esercizi d'esame](../../../discussions/categories/esami-1)
-- [Esercizi per casa](../../../discussions/categories/esercizi-1)
+- [Esercizi d'esame](../../../discussions/categories/esami-a-l)
+- [Esercizi per casa](../../../discussions/categories/esercizi-a-l)
 
 ### Filtri per Traccia di Esame
 

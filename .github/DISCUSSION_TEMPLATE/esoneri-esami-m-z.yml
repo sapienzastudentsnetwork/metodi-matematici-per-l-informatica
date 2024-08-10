@@ -22,7 +22,6 @@ body:
       - Esame non diviso in parti
   validations:
     required: true
-body:
 - type: dropdown
   id: subject
   attributes:

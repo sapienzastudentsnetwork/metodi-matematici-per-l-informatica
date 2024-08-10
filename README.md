@@ -9,5 +9,5 @@
 ## 🚀 Inizia subito
 
 Scegli un Canale di Insegnamento per iniziare subito ad esplorare Esercizi e Soluzioni
-- **Prof.** Lorenzo [**Carlucci (A/L)**](carlucci/README.md#carlucci-al)
-- **Prof.** Adolfo [**Piperno (M/Z)**](piperno/README.md#piperno-mz)
+- **Prof.** Lorenzo [**Carlucci (A-L)**](carlucci/README.md#aa-202425-carlucci-a-l)
+- **Prof.** Adolfo [**Piperno (M-Z)**](piperno/README.md#aa-202425-piperno-m-z)
