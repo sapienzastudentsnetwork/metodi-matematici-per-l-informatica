@@ -51,6 +51,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 |                             Dispense                             |                             Esercizi                             |                        Tracce di Esame                        |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------------------------------------------:|
+| [2024/25](https://sites.google.com/uniroma1.it/mmi2425/dispense) | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/esercizi) | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/esami) |
 | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/dispense) | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/esercizi) | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/esami) |
 | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/dispense) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esercizi) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esami) |
 | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/dispense) | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/esercizi) | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/esami) |
