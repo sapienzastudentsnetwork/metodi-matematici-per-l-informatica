@@ -27,6 +27,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Traccia di Esame
 
+- [20 settembre 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+settembre+2024")
 - [20 giugno 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+giugno+2024")
 - [13 febbraio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"13+febbraio+2024")
 - [26 gennaio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"26+gennaio+2024")
