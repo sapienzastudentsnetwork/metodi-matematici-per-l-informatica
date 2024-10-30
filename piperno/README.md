@@ -4,8 +4,15 @@ Contribuisci all'[aggiunta di esercizi tratti da vecchie tracce d'esame](../../.
 
 ## 🔗 Collegamenti rapidi
 
+**Tipologia:**
+- [Insiemistica](../../../discussions/categories/Esoneri-&-Esami-M-Z)
+- [Induzione](../../../discussions/categories/Esoneri-&-Esami-M-Z)
+- [Logica](../../../discussions/categories/Esoneri-&-Esami-M-Z)
+
 - [Esercizi d'esame](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
+
+
 
 ## ⚠️ Attenzione
 
