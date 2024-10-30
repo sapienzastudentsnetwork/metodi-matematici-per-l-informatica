@@ -19,5 +19,5 @@ Grazie mille in anticipo per il tuo contributo 🙌
 
 ### Filtri per Tipologia
 is:open category:"" 
-- [Esercizi d'esame](../../../discussions/categories/esoneri-&esami-m-z)
+- [Esercizi d'esame](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
