@@ -5,7 +5,7 @@ Contribuisci all'[aggiunta di esercizi tratti da vecchie tracce d'esame](../../.
 ## 🔗 Collegamenti rapidi
 
 **Argomento:**
-- [Insiemistica](../../../discussions/categories/Esoneri-&-Esami-M-Z)
+- [Insiemistica](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+category%3A"Esoneri+%26+Esami+M-Z"+label%3Ainsiemi-relazioni-funzioni)
 - [Induzione](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 - [Logica](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 
