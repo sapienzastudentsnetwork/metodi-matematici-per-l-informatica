@@ -18,6 +18,6 @@ Grazie mille in anticipo per il tuo contributo 🙌
 ## 🔗 Collegamenti rapidi
 
 ### Filtri per Tipologia
-
-- [Esercizi d'esame](../../../discussions/categories/esami-m-z)
+is:open category:"" 
+- [Esercizi d'esame](../../../discussions/categories/esoneri-&esami-m-z)
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
