@@ -9,7 +9,7 @@ Contribuisci all'[aggiunta di esercizi tratti da vecchie tracce d'esame](../../.
 - [Induzione](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 - [Logica](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 
-- [Esercizi d'esame](../../../discussions/categories/Esoneri-&-Esami-M-Z)
+- [Esercizi d'esame](../../../discussions/categories/esoneri-esami-m-z)
 - [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
 
 
