@@ -4,7 +4,7 @@ Contribuisci all'[aggiunta di esercizi tratti da vecchie tracce d'esame](../../.
 
 ## 🔗 Collegamenti rapidi
 
-**Tipologia:**
+**Argomento:**
 - [Insiemistica](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 - [Induzione](../../../discussions/categories/Esoneri-&-Esami-M-Z)
 - [Logica](../../../discussions/categories/Esoneri-&-Esami-M-Z)
