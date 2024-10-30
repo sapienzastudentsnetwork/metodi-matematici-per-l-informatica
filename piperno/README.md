@@ -2,6 +2,11 @@
 
 Contribuisci all'[aggiunta di esercizi tratti da vecchie tracce d'esame](../../../discussions/new?category=esami-m-z), all'[aggiunta di primi esercizi per casa](../../../discussions/new?category=esercizi-m-z) quando verranno assegnati, oppure torna a farci visita a semestre inoltrato 😉
 
+## 🔗 Collegamenti rapidi
+
+- [Esercizi d'esame](../../../discussions/categories/Esoneri-&-Esami-M-Z)
+- [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
+
 ## ⚠️ Attenzione
 
 Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Matematici per l'Informatica assegnati dal prof. Adolfo Piperno è gestito e contribuito da studenti e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
@@ -14,10 +19,3 @@ Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai se
 - Matteo **R.** ([@rimaout](https://github.com/rimaout))
 
 Grazie mille in anticipo per il tuo contributo 🙌
-
-## 🔗 Collegamenti rapidi
-
-### Filtri per Tipologia
-
-- [Esercizi d'esame](../../../discussions/categories/Esoneri-&-Esami-M-Z)
-- [Esercizi per casa](../../../discussions/categories/esercizi-m-z)
