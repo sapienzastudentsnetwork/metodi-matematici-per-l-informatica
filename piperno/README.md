@@ -1,7 +1,5 @@
 # [A.A. 2024/25] Piperno (M-Z)
 
-Contribuisci all'[aggiunta di esercizi tratti da vecchie tracce d'esame](../../../discussions/new?category=esami-m-z), all'[aggiunta di primi esercizi per casa](../../../discussions/new?category=esercizi-m-z) quando verranno assegnati, oppure torna a farci visita a semestre inoltrato 😉
-
 ## 🔗 Collegamenti rapidi
 
 >**Argomenti:**
