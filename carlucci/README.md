@@ -27,18 +27,18 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Traccia di Esame
 
-- [20 settembre 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+settembre+2024")
-- [20 giugno 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+giugno+2024")
-- [13 febbraio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"13+febbraio+2024")
-- [26 gennaio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"26+gennaio+2024")
-- [14 luglio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"14+luglio+2023")
-- [12 giugno 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"12+giugno+2023")
-- [3 aprile 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"3+aprile+2023")
-- [10 febbraio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"10+febbraio+2023")
-- [16 gennaio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2023")
-- [8 febbraio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2022")
-- [12 gennaio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"12+gennaio+2022")
-- [9 settembre 2021](../../../discussions?discussions_q=is%3Aopen+label%3A"9+settembre+2021")
+- [20 settembre 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+settembre+2024+[A-L]")
+- [20 giugno 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+giugno+2024+[A-L]")
+- [13 febbraio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"13+febbraio+2024+[A-L]")
+- [26 gennaio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"26+gennaio+2024+[A-L]")
+- [14 luglio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"14+luglio+2023+[A-L]")
+- [12 giugno 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"12+giugno+2023+[A-L]")
+- [3 aprile 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"3+aprile+2023+[A-L]")
+- [10 febbraio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"10+febbraio+2023+[A-L]")
+- [16 gennaio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2023+[A-L]")
+- [8 febbraio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2022+[A-L]")
+- [12 gennaio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"12+gennaio+2022+[A-L]")
+- [9 settembre 2021](../../../discussions?discussions_q=is%3Aopen+label%3A"9+settembre+2021+[A-L]")
 
 ### Set di Esercizi (A.A. 2021-22)
 
