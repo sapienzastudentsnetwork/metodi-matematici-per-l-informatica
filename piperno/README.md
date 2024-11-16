@@ -8,15 +8,15 @@
 >- [Logica](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+category%3A"Esoneri+%26+Esami+M-Z"+label%3Alogica+)
 
 >**Esami:**
->- [13 Giugno 2022](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"13+giugno+2022"+category%3A"Esoneri+%26+Esami+M-Z")
->- [10 Febbraio 2020](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"10+febbraio+2020"+category%3A"Esoneri+%26+Esami+M-Z")
->- [20 Gennaio 2020](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"20+gennaio+2020"+category%3A"Esoneri+%26+Esami+M-Z")
->- [9 Settembre 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"9+Settembre+2019"+category%3A"Esoneri+%26+Esami+M-Z")
->- [17 Giugno 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"17+giugno+2019"+category%3A"Esoneri+%26+Esami+M-Z")
->- [12 Febbraio 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"12+febbraio+2019"+category%3A"Esoneri+%26+Esami+M-Z")
->- [22 Gennaio 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"22+Gennaio+2019"+category%3A"Esoneri+%26+Esami+M-Z")
->- [12 Settembre 2018](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"12+settembre+2018"+category%3A"Esoneri+%26+Esami+M-Z")
->- [15 Gennaio 2018](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"15+gennaio+2018"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [13 Giugno 2022](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"13+giugno+2022+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [10 Febbraio 2020](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"10+febbraio+2020+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [20 Gennaio 2020](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"20+gennaio+2020+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [9 Settembre 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"9+Settembre+2019+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [17 Giugno 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"17+giugno+2019+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [12 Febbraio 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"12+febbraio+2019+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [22 Gennaio 2019](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"22+Gennaio+2019+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [12 Settembre 2018](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"12+settembre+2018+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
+>- [15 Gennaio 2018](../../../discussions/categories/esoneri-esami-m-z?discussions_q=is%3Aopen+label%3A"15+gennaio+2018+[m-z]"+category%3A"Esoneri+%26+Esami+M-Z")
 
 ## ⚠️ Attenzione
 
