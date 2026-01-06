@@ -144,6 +144,6 @@ In questi forum chiunque può contribuire aggiungendo non solo proposte di soluz
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
 
-Originariamente la parte M-Z del forum è stata invece creata e gestita, nell'A.A. 2024/25, da @rimaout, che ringraziamo, a nome dell'intera comunità, per l'ottimo lavoro svolto 💪
+Originariamente la parte M-Z del forum è stata invece creata e gestita, nell'A.A. 2024/25, da [@rimaout](https://github.com/rimaout), che ringraziamo, a nome dell'intera comunità, per l'ottimo lavoro svolto 💪
 
 Grazie mille in anticipo per il tuo contributo 🙌
