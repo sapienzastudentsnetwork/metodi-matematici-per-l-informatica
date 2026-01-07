@@ -125,6 +125,9 @@
           <td align="center">
             <a href="../../../discussions/categories/esami-esoneri-m-z?discussions_q=is%3Aopen+label%3A&quot;15+gennaio+2025+[m-z]&quot;+category%3A&quot;Esami+%26+Esoneri+M-Z&quot;"> 15 Gennaio </a>
           </td>
+          <td align="center">
+            <a href="../../../discussions/categories/esami-esoneri-m-z?discussions_q=is%3Aopen+label%3A&quot;15+dicembre+2025+[m-z]&quot;+category%3A&quot;Esami+%26+Esoneri+M-Z&quot;"> 15 Dicembre </a>
+          </td>
         </tr>
       </table>
     </td>
