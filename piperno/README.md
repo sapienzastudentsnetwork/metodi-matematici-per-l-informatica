@@ -5,7 +5,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="4" align="center">
+    <td colspan="5" align="center">
       <h3> Esami & Esoneri precedenti </h3>
     </td>
   </tr>
