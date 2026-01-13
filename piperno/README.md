@@ -138,6 +138,16 @@
         </tr>
       </table>
     </td>
+    <td valign="top">
+      <table>
+        <tr><th align="center">2026</th></tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions/categories/esami-esoneri-m-z?discussions_q=is%3Aopen+label%3A&quot;12+gennaio+2026+[m-z]&quot;+category%3A&quot;Esami+%26+Esoneri+M-Z&quot;"> 12 Gennaio </a>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
