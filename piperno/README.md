@@ -145,6 +145,9 @@
           <td align="center">
             <a href="../../../discussions/categories/esami-esoneri-m-z?discussions_q=is%3Aopen+label%3A&quot;12+gennaio+2026+[m-z]&quot;+category%3A&quot;Esami+%26+Esoneri+M-Z&quot;"> 12 Gennaio </a>
           </td>
+          <td align="center">
+            <a href="../../../discussions/categories/esami-esoneri-m-z?discussions_q=is%3Aopen+label%3A&quot;12+febbraio+2026+[m-z]&quot;+category%3A&quot;Esami+%26+Esoneri+M-Z&quot;"> 12 Febbraio </a>
+          </td>
         </tr>
       </table>
     </td>
@@ -162,6 +165,7 @@
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-esoneri-m-z) o [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-m-z), e, se volessi essere ancora più di aiuto, puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
+- Gabriele **Visentin** ([@GabrieleVisentin](https://github.com/GabrieleVisentin)) [[Telegram](https://telegram.me/G4bbo7)]
 - Matteo **Collica** ([@Matypist](https://github.com/Matypist)) [[Telegram](https://telegram.me/Matypist)]
 
 Originariamente la parte M-Z del forum è stata invece creata e gestita, nell'A.A. 2024/25, da [@rimaout](https://github.com/rimaout), che ringraziamo, a nome dell'intera comunità, per l'ottimo lavoro svolto 💪
