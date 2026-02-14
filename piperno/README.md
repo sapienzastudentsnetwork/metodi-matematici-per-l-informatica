@@ -145,6 +145,8 @@
           <td align="center">
             <a href="../../../discussions/categories/esami-esoneri-m-z?discussions_q=is%3Aopen+label%3A&quot;12+gennaio+2026+[m-z]&quot;+category%3A&quot;Esami+%26+Esoneri+M-Z&quot;"> 12 Gennaio </a>
           </td>
+        </tr>
+        <tr>
           <td align="center">
             <a href="../../../discussions/categories/esami-esoneri-m-z?discussions_q=is%3Aopen+label%3A&quot;12+febbraio+2026+[m-z]&quot;+category%3A&quot;Esami+%26+Esoneri+M-Z&quot;"> 12 Febbraio </a>
           </td>
