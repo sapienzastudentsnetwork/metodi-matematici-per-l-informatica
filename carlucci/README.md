@@ -4,7 +4,7 @@
 
 - [Collegamenti rapidi](#-collegamenti-rapidi)
 - [Risorse utili](#-risorse-utili)
-- [Set di Esercizi (A.A. 2021-22)](#-set-di-esercizi-aa-2021-22)
+- [Set di Esercizi (A.A. 2021-22)](#set-di-esercizi-aa-202122)
 
 ## ⚠️ Attenzione
 
@@ -27,19 +27,129 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Traccia di Esame
 
-- [12 gennaio 2026](../../../discussions?discussions_q=is%3Aopen+label%3A"12+gennaio+2026+[A-L]")
-- [20 settembre 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+settembre+2024+[A-L]")
-- [20 giugno 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+giugno+2024+[A-L]")
-- [13 febbraio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"13+febbraio+2024+[A-L]")
-- [26 gennaio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"26+gennaio+2024+[A-L]")
-- [14 luglio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"14+luglio+2023+[A-L]")
-- [12 giugno 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"12+giugno+2023+[A-L]")
-- [3 aprile 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"3+aprile+2023+[A-L]")
-- [10 febbraio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"10+febbraio+2023+[A-L]")
-- [16 gennaio 2023](../../../discussions?discussions_q=is%3Aopen+label%3A"16+gennaio+2023+[A-L]")
-- [8 febbraio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"8+febbraio+2022+[A-L]")
-- [12 gennaio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"12+gennaio+2022+[A-L]")
-- [9 settembre 2021](../../../discussions?discussions_q=is%3Aopen+label%3A"9+settembre+2021+[A-L]")
+<table align="center">
+  <tr>
+    <td colspan="5" align="center">
+      <h3> Tracce di Esame </h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <table>
+        <tr><th align="center">2021</th></tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;9+settembre+2021+[A-L]&quot;"> 9 Settembre </a>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table>
+        <tr><th align="center">2022</th></tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;12+gennaio+2022+[A-L]&quot;"> 12 Gennaio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;8+febbraio+2022+[A-L]&quot;"> 8 Febbraio </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <table>
+        <tr><th align="center">2023</th></tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;16+gennaio+2023+[A-L]&quot;"> 16 Gennaio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;10+febbraio+2023+[A-L]&quot;"> 10 Febbraio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;3+aprile+2023+[A-L]&quot;"> 3 Aprile </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;12+giugno+2023+[A-L]&quot;"> 12 Giugno </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;14+luglio+2023+[A-L]&quot;"> 14 Luglio </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <table>
+        <tr><th align="center">2024</th></tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;26+gennaio+2024+[A-L]&quot;"> 26 Gennaio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;13+febbraio+2024+[A-L]&quot;"> 13 Febbraio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;20+giugno+2024+[A-L]&quot;"> 20 Giugno </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;20+settembre+2024+[A-L]&quot;"> 20 Settembre </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <table>
+        <tr><th align="center">2025</th></tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;23+gennaio+2025+[A-L]&quot;"> 23 Gennaio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;24+febbraio+2025+[A-L]&quot;"> 24 Febbraio </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;10+giugno+2025+[A-L]&quot;"> 10 Giugno </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;24+luglio+2025+[A-L]&quot;"> 24 Luglio </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <table>
+        <tr><th align="center">2026</th></tr>
+        <tr>
+          <td align="center">
+            <a href="../../../discussions?discussions_q=is%3Aopen+label%3A&quot;12+gennaio+2026+[A-L]&quot;"> 12 Gennaio </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ### Set di Esercizi (A.A. 2021/22)
 
@@ -53,7 +163,8 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 |                             Dispense                             |                             Esercizi                             |                        Tracce di Esame                        |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------------------------------------------:|
- [2025/26](https://sites.google.com/uniroma1.it/mmi2526/dispense) | [2024/25](https://sites.google.com/uniroma1.it/mmi2526/esercizi) | [2024/25](https://sites.google.com/uniroma1.it/mmi2526/esami) |
+| [2026/27](https://sites.google.com/uniroma1.it/mmi2627/dispense) | [2026/27](https://sites.google.com/uniroma1.it/mmi2627/esercizi) | [2026/27](https://sites.google.com/uniroma1.it/mmi2627/esami) |
+| [2025/26](https://sites.google.com/uniroma1.it/mmi2526/dispense) | [2025/26](https://sites.google.com/uniroma1.it/mmi2526/esercizi) | [2025/26](https://sites.google.com/uniroma1.it/mmi2526/esami) |
 | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/dispense) | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/esercizi) | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/esami) |
 | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/dispense) | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/esercizi) | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/esami) |
 | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/dispense) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esercizi) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esami) |
