@@ -151,14 +151,6 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
   </tr>
 </table>
 
-### Set di Esercizi (A.A. 2021/22)
-
-- [Combinatoria](#combinatoria)
-- [Funzioni](#funzioni)
-- [Relazioni](#relazioni)
-- [Induzione](#induzione)
-- [Logica](#logica)
-
 ## 🗃 Risorse utili
 
 |                             Dispense                             |                             Esercizi                             |                        Tracce di Esame                        |
