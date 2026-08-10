@@ -1,4 +1,4 @@
-# [A.A. 2025/26] Piperno (M-Z)
+# [A.A. 2026/27] Piperno (M-Z)
 
 > [!WARNING]
 > Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Matematici per l'Informatica assegnati dal prof. Adolfo Piperno è gestito e contribuito da studenti, e in quanto tale non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!

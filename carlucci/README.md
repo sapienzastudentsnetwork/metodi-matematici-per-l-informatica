@@ -1,4 +1,4 @@
-# [A.A. 2024/25] Carlucci (A-L)
+# [A.A. 2026/27] Carlucci (A-L)
 
 ## 🗂 Indice
 
@@ -27,6 +27,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 ### Filtri per Traccia di Esame
 
+- [12 gennaio 2026](../../../discussions?discussions_q=is%3Aopen+label%3A"12+gennaio+2026+[A-L]")
 - [20 settembre 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+settembre+2024+[A-L]")
 - [20 giugno 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"20+giugno+2024+[A-L]")
 - [13 febbraio 2024](../../../discussions?discussions_q=is%3Aopen+label%3A"13+febbraio+2024+[A-L]")
@@ -40,7 +41,7 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 - [12 gennaio 2022](../../../discussions?discussions_q=is%3Aopen+label%3A"12+gennaio+2022+[A-L]")
 - [9 settembre 2021](../../../discussions?discussions_q=is%3Aopen+label%3A"9+settembre+2021+[A-L]")
 
-### Set di Esercizi (A.A. 2021-22)
+### Set di Esercizi (A.A. 2021/22)
 
 - [Combinatoria](#combinatoria)
 - [Funzioni](#funzioni)
@@ -52,12 +53,13 @@ Questo repository di scambio e confronto di soluzioni agli esercizi di Metodi Ma
 
 |                             Dispense                             |                             Esercizi                             |                        Tracce di Esame                        |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|:-------------------------------------------------------------:|
+ [2025/26](https://sites.google.com/uniroma1.it/mmi2526/dispense) | [2024/25](https://sites.google.com/uniroma1.it/mmi2526/esercizi) | [2024/25](https://sites.google.com/uniroma1.it/mmi2526/esami) |
 | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/dispense) | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/esercizi) | [2024/25](https://sites.google.com/uniroma1.it/mmi2425/esami) |
 | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/dispense) | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/esercizi) | [2023/24](https://sites.google.com/uniroma1.it/mmi2324/esami) |
 | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/dispense) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esercizi) | [2022/23](https://sites.google.com/uniroma1.it/mmi2223/esami) |
 | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/dispense) | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/esercizi) | [2021/22](https://sites.google.com/uniroma1.it/mmi2122/esami) |
 
-## 📝 Set di Esercizi (A.A. 2021-22)
+## 📝 Set di Esercizi (A.A. 2021/22)
 
 ### Combinatoria
 
